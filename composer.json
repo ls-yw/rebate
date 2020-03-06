@@ -1,0 +1,5 @@
+{
+    "require": {
+        "woodlsy/phalcon": "^0.1.4"
+    }
+}
